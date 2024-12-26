@@ -1,0 +1,14 @@
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\bin\Debug\net9.0\Fianl test.exe
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\bin\Debug\net9.0\Fianl test.deps.json
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\bin\Debug\net9.0\Fianl test.runtimeconfig.json
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\bin\Debug\net9.0\Fianl test.dll
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\bin\Debug\net9.0\Fianl test.pdb
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\obj\Debug\net9.0\Fianl test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\obj\Debug\net9.0\Fianl test.AssemblyInfoInputs.cache
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\obj\Debug\net9.0\Fianl test.AssemblyInfo.cs
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\obj\Debug\net9.0\Fianl test.csproj.CoreCompileInputs.cache
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\obj\Debug\net9.0\Fianl test.dll
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\obj\Debug\net9.0\refint\Fianl test.dll
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\obj\Debug\net9.0\Fianl test.pdb
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\obj\Debug\net9.0\Fianl test.genruntimeconfig.cache
+C:\Users\theon\Desktop\C# Final Test;(\Fianl test\obj\Debug\net9.0\ref\Fianl test.dll
